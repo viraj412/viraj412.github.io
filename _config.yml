@@ -15,6 +15,7 @@ linkedin_username: virajravi412
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title/
 
