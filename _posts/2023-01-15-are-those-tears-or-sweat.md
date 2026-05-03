@@ -133,4 +133,6 @@ Well, that cramp story is for another day.
 
 ---
 
-<img src="/assets/finish-line.jpg" alt="I Came, I Ran, I Finished — Tata Mumbai Marathon 2023" class="post-img" />
+<div style="text-align:center; margin: 2rem 0;">
+  <img src="/assets/finish-line.jpg" alt="I Came, I Ran, I Finished — Tata Mumbai Marathon 2023" style="max-width: 260px; width: 100%; border-radius: 8px;" />
+</div>
