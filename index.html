@@ -1,0 +1,70 @@
+---
+layout: default
+title: Viraj Ravi
+---
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-avatar-placeholder">VR</div>
+  <div class="hero-text">
+    <h1>Viraj Ravi</h1>
+    <p class="tagline-wrap">
+      <span id="typewriter"></span><span class="cursor"></span>
+    </p>
+  </div>
+</section>
+
+<!-- Bio -->
+<section class="bio">
+  <p>PM at Myntra, building AI that takes the anxiety out of post-purchase support — the part of e-commerce nobody talks about until something goes wrong. I took the scenic route here: engineering, growth marketing at Tata CLiQ, MBA at IIM Bangalore. The detour was worth it.</p>
+  <p>I've seen enough of the stack to ask better questions. Still figuring out the answers — and building things along the way.</p>
+  <p>I believe the best products feel human even when they're mostly AI. People should feel safe, not managed. Building toward that.</p>
+  <p>My best thinking happens on long runs where nobody can interrupt me. Everything else is just follow-through.</p>
+</section>
+
+<!-- Social links -->
+<ul class="social-links">
+  <li>
+    <a href="https://github.com/viraj412" class="social-link" target="_blank" rel="noopener">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+      GitHub
+    </a>
+  </li>
+  <li>
+    <a href="https://linkedin.com/in/virajravi412" class="social-link" target="_blank" rel="noopener">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="mailto:rviru412@gmail.com" class="social-link">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      Email
+    </a>
+  </li>
+  <li>
+    <a href="/docs/resume.pdf" class="social-link">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+      Resume
+    </a>
+  </li>
+</ul>
+
+<!-- Recent Writing -->
+{% assign recent = site.posts | limit: 5 %}
+{% if recent.size > 0 %}
+<section>
+  <div class="section-header">
+    <h2>Recent Writing</h2>
+    <a href="{{ '/blog' | relative_url }}" class="all-link">All posts →</a>
+  </div>
+  <ul class="post-list">
+    {% for post in recent %}
+    <li class="post-item">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

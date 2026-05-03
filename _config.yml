@@ -1,0 +1,25 @@
+title: Viraj Ravi
+author: Viraj Ravi
+email: rviru412@gmail.com
+description: >-
+  PM at Myntra building AI for post-purchase CX.
+  Former engineer and marketer. Building things in public.
+
+baseurl: ""
+url: "https://viraj412.github.io"
+
+github_username:   viraj412
+linkedin_username: virajravi412
+
+# Build
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .DS_Store
