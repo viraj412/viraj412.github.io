@@ -11,8 +11,6 @@ description: "42.2 kilometers through Mumbai, and everything that ran through my
 
 ## Prologue
 
-![Viraj at the finish line — I Came, I Ran, I Finished](/assets/finish-line.jpg)
-
 A light sleeper at best, Mumbai opened its eyes by 3 a.m. to the trundling arrival of runners on the streets making their way to Chhatrapati Shivaji Maharaj Terminus (CST), the start point for the marathon. Local trains started to ply around the same time, carrying cheery runners from the suburbs through the arteries of the metropolis. The mismatched rhythm of footsteps, words spoken in half and shouted in half a dozen languages, police announcements, motor horns — all blended into the gargling score of the city street.
 
 ---
@@ -132,3 +130,7 @@ Runners leave the *Azad Maidan* with newfound hopes, much like the hundreds of b
 *"Wait…Cramps Cramps Cramps!"*
 
 Well, that cramp story is for another day.
+
+---
+
+<img src="/assets/finish-line.jpg" alt="I Came, I Ran, I Finished — Tata Mumbai Marathon 2023" class="post-img" />

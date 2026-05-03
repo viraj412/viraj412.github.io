@@ -459,6 +459,15 @@ footer {
   font-size: 0.9rem;
 }
 
+/* ---- Post images ---- */
+.post-img {
+  display: block;
+  max-width: 360px;
+  width: 100%;
+  border-radius: 8px;
+  margin: 1.5rem auto 0;
+}
+
 /* ---- Empty state ---- */
 .empty-state {
   padding: 3rem 0;
