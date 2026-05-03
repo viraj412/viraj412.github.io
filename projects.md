@@ -6,24 +6,18 @@ description: Things I've built, written about, or shipped — at work and on the
 
 A running catalog. Some are polished, some are experiments, some are still half-baked ideas I'm chasing.
 
-## Spec-Driven Development with `context.md` <span class="project-tag">Writing soon</span>
+---
 
-PMs who work with AI know the pain: vague prompts get vague outputs. The fix isn't prompting harder — it's prompting smarter, with structured context files that carry your intent, constraints, and history across sessions.
+### [Spec-Driven Development with `context.md`](/projects/context-md) <span class="project-tag">Writing soon</span>
 
-I've been using a `context.md` approach that makes AI output significantly more useful — more specific, more on-brand, less in need of heavy editing. Writing this up properly, with the actual templates I use.
+How PMs can get dramatically better AI output by thinking like engineers. A structured `context.md` file changes the quality of everything you produce with AI.
 
 ---
 
-## AI Voicebot — Myntra CX <span class="project-tag">Work</span>
+### [AI Voicebot for CX Support](/projects/voicebot) <span class="project-tag">Work · Myntra</span>
 
-Shipped an AI voicebot integrated into Myntra's contact centre for handling common post-purchase queries end-to-end — without a human agent in the loop. The goal was volume deflection without sacrificing the customer's sense of being heard.
-
-The interesting design question was: where does the AI speak, and where does it get out of the way? That line is harder to draw than it looks.
-
-*(Can't open-source this one, but happy to talk about the thinking behind it.)*
+Shipped an AI voicebot for Myntra's contact centre — handling post-purchase queries end-to-end without a human agent. The interesting part wasn't the tech, it was the trust layer.
 
 ---
 
-## Coming up
-
-Personal side projects are in motion. Watch this space.
+*More coming as I build.*

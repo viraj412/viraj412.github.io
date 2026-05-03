@@ -4,40 +4,20 @@ title: About
 description: The scenic route to product.
 ---
 
-I'm Viraj — a Product Manager at Myntra, where I work on one of the more quietly interesting problems in e-commerce: how do you use AI to reduce friction *before* a customer feels the need to reach out in the first place?
+I'm Viraj, a Product Manager at Myntra working on one of the quieter but more important problems in consumer tech. What happens after someone buys something and something goes wrong? My charter spans both ends of the contact centre: AI-powered tools that resolve customer issues without a human agent, and systems that help agents resolve things faster when they do step in. Most recently I shipped an AI voicebot for CX support. Right now I'm designing around interaction transcript analysis to surface emerging customer problems before they turn into operational fires.
 
-My mandate spans both ends of the contact centre. On the customer side: proactive communication, self-serve tools, AI-powered support that doesn't feel like a hostage negotiation. On the operations side: automation, better tools for agents, faster resolution. Most recently I shipped an AI voicebot for CX support; I'm currently designing POCs around interaction transcript analysis to surface emerging issues before they become operational fires.
+I got here through a route that doesn't fit neatly on a slide. I studied Electronics and Communication Engineering at MIT Manipal, graduating in the top 10% of my class. Those years were shaped by a genuine excitement about India's 4G revolution. I did three internships at Jio and one at Tata Communications, working across FTTH operations, fibre network architecture, and network cost accounting across 20+ countries. Infrastructure at scale was fascinating to me.
 
----
+Then, during my final semester, I mapped shopping personas for a Tata CLiQ study and walked away with a pre-placement offer. I turned down my campus placement job to join as a Marketing Executive. It paid less. It was the right call.
 
-## The scenic route
+At Tata CLiQ, I started in growth marketing working closely with the CMO. A vacancy opened in social media and I stepped in, eventually growing the brand's following from 100k to 420k. I launched HOKA in India, hitting $0.5M+ in revenue within three months, and won 10+ marketing awards including most innovative influencer campaign by Entrepreneur India. A fast-track promotion to Assistant Manager followed. My CMO eventually told me it was time to develop sharper thinking through an MBA. He was right.
 
-I got here through an unusual path, and I think it shows — in a good way.
+IIM Bangalore (2022-2024) changed how I approach problems. I competed across strategy and business case competitions, winning nationally at Allcargo-LogicOn (1 in 6,400+ teams) and Numero Uno (1 in 1,200+ teams). I coordinated TEDxIIMBangalore and served as Senior Coordinator of the Student Alumni Committee. The experience I'm most proud of: Convenor of Swarna Twaran, a 50-hour marathon relay with 2,100+ runners from 15+ countries, covering 15,000+ kilometers collectively, flagged off by the Hon'ble President of India. My summer was at Simon-Kucher & Partners in Singapore, working on GTM strategy for a Japanese HR provider expanding into global payroll.
 
-I started as an engineer. Then moved into growth marketing at Tata CLiQ, where I ran their social media (grew from 100k to 420k followers), worked on performance marketing, and launched HOKA in India. Then an MBA at IIM Bangalore, then product.
+Outside work, I run. Fifteen half marathons, four fulls, and one 60km ultramarathon in Ooty with 1,900m of elevation gain — which I did not regret until approximately kilometre 47. I collect stamps from 55 nations and kingdoms and have conducted knowledge sessions with over 1,000 stamps on display. I hold a Blue Senior belt in Kukkiwon Tae-Kwon-Do, 7th of 12, and represented my school at district level.
 
-That detour gives me something I find genuinely useful: I'm comfortable going deep on the technology, but I think in terms of business outcomes and people first. Marketing taught me to start with the customer's feeling, not the product's feature. Engineering taught me to ask "but how does it actually work?" Those two questions together turn out to be a reasonable way to find the problems worth solving.
+I'm a huge admirer of Rafael Nadal. A reporter once asked him what Nick Kyrgios could achieve if he committed fully to the game. Nadal's reply: *"IF. IF. IF doesn't exist."* I think about that often — not as a criticism of anyone, but as a reminder that conditions are never going to be perfect. You either show up or you don't. I try to show up.
 
-I'm still early in my career — enough to know I have a lot to learn, enough to know which questions to ask.
+A few other things that happened along the way: I managed a traffic jam alongside the police on Sarjapur Road. I was once on the same email thread as Mr. Ratan Tata. I survived -12°C trekking in the Himalayas.
 
----
-
-## What I'm building toward
-
-I believe the best products feel human even when they're mostly AI. There's a trust layer that technology alone can't manufacture — and I want to build toward that. Products where people feel like they're in safe hands, not managed by a system.
-
-I'm also trying to build and ship faster. With AI in the loop, the old excuse of "it takes 6 months to validate" is getting thinner. Real-time feedback, smaller bets, learning in the open — that's the mode I want to be in.
-
-This site is part of that. A place to think out loud, document what I'm building, and eventually have something to point to.
-
----
-
-## Outside work
-
-I run — long ones, 2–3 hours, often without a plan. It's where I do my best thinking. No interruptions, no Slack, just problems and pavement.
-
-I collect stamps. Have since I was a kid. There's something satisfying about a thing that's genuinely small and complete.
-
-I'm based in Bengaluru, where the traffic gives me ample time to think.
-
-If any of this resonates — on products, AI, running, or stamps — [say hi](mailto:rviru412@gmail.com).
+If any of this resonates, [say hi](mailto:rviru412@gmail.com).
