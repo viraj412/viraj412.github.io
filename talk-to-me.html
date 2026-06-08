@@ -963,8 +963,13 @@
 
   // ── Escape helpers ────────────────────────────────────────────────────────
   function escHtml(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
+    return s
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')
+        .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g,'<em>$1</em>')
+        .replace(/`(.*?)`/g,'<code>$1</code>')
+        .replace(/\n/g,'<br>');
+}
   function escAttr(s) {
     return s.replace(/'/g, "\\'").replace(/\n/g,' ');
   }
